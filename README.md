@@ -1,9 +1,11 @@
-  <h1>Tarea de Línea de Comandos</h1>
+  <h1>Línea de Comandos</h1>
     <h2>Evidencias</h2>
-    <img src="cp1.png" alt="Evidencia 1">
-    <img src="cp2.png" alt="Evidencia 2">
-    <img src="cp3.png" alt="Evidencia 3">
-    <img src="cp4.png" alt="Evidencia 4">
+    <img src="https://github.com/Criss-13/-trabajo-de-clase/blob/main/Captura%20de%20pantalla%202024-09-17%20132819.png" alt="Evidencia 1">
+    </p>
+  <img src="Captura de pantalla 2024-09-17 132838.png" alt="Evidencia 2">
+    </p>
+   <img src="Captura de pantalla 2024-09-17 132850.png" alt="Evidencia 3">
+    </p>
 
    <h2>Resumen de Comandos</h2>
     <p>En esta práctica hemos trabajado con los siguientes comandos de línea de comandos:</p>
